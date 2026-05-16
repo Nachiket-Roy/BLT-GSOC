@@ -1,5 +1,5 @@
 window.GSOC2026_STATS = {
-    "updatedAt": "2026-05-15T06:05:12.051Z",
+    "updatedAt": "2026-05-16T05:36:25.460Z",
     "projects": {
         "blt-netguardian": {
             "repos": [
@@ -119,13 +119,13 @@ window.GSOC2026_STATS = {
                 "openPR": null,
                 "mergedPR": null,
                 "openIssues": null,
-                "closedIssues": 1,
-                "totalCommits": 24
+                "closedIssues": null,
+                "totalCommits": 29
             },
             "userStats": {
                 "Nachiket-Roy": {
                     "prTotal": null,
-                    "closedIssues": 0
+                    "closedIssues": null
                 }
             }
         },
