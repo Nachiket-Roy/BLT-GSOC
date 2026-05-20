@@ -1,5 +1,5 @@
 window.GSOC2026_STATS = {
-    "updatedAt": "2026-05-19T06:29:36.653Z",
+    "updatedAt": "2026-05-20T06:20:57.706Z",
     "projects": {
         "blt-netguardian": {
             "repos": [
@@ -62,10 +62,10 @@ window.GSOC2026_STATS = {
                 "OWASP-BLT/BLT-Vanish-Flutter"
             ],
             "repoStats": {
-                "openPR": 2,
-                "mergedPR": 6,
-                "openIssues": 1,
-                "closedIssues": 3,
+                "openPR": null,
+                "mergedPR": null,
+                "openIssues": null,
+                "closedIssues": null,
                 "totalCommits": 26
             },
             "userStats": {
