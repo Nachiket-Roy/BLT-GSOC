@@ -1,5 +1,5 @@
 window.GSOC2026_STATS = {
-    "updatedAt": "2026-05-23T05:48:43.536Z",
+    "updatedAt": "2026-05-24T06:11:42.371Z",
     "projects": {
         "blt-netguardian": {
             "repos": [
@@ -25,11 +25,11 @@ window.GSOC2026_STATS = {
                 "OWASP-BLT/BLT-University"
             ],
             "repoStats": {
-                "openPR": 6,
-                "mergedPR": 20,
+                "openPR": 1,
+                "mergedPR": 23,
                 "openIssues": 3,
                 "closedIssues": 12,
-                "totalCommits": 86
+                "totalCommits": 96
             },
             "userStats": {
                 "e-esakman": {
@@ -43,11 +43,11 @@ window.GSOC2026_STATS = {
                 "OWASP-BLT/BLT-Next"
             ],
             "repoStats": {
-                "openPR": 34,
-                "mergedPR": 35,
-                "openIssues": 40,
-                "closedIssues": 28,
-                "totalCommits": 138
+                "openPR": 5,
+                "mergedPR": 43,
+                "openIssues": 32,
+                "closedIssues": 36,
+                "totalCommits": 155
             },
             "userStats": {
                 "mdkaifansari04": {
@@ -66,7 +66,7 @@ window.GSOC2026_STATS = {
                 "mergedPR": null,
                 "openIssues": null,
                 "closedIssues": null,
-                "totalCommits": 26
+                "totalCommits": 29
             },
             "userStats": {
                 "ananya-09": {
@@ -120,7 +120,7 @@ window.GSOC2026_STATS = {
                 "mergedPR": null,
                 "openIssues": null,
                 "closedIssues": null,
-                "totalCommits": 29
+                "totalCommits": 56
             },
             "userStats": {
                 "Nachiket-Roy": {
