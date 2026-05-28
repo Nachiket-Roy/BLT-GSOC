@@ -1,5 +1,5 @@
 window.GSOC2026_STATS = {
-    "updatedAt": "2026-05-27T06:41:17.001Z",
+    "updatedAt": "2026-05-28T06:33:43.306Z",
     "projects": {
         "blt-netguardian": {
             "repos": [
@@ -7,8 +7,8 @@ window.GSOC2026_STATS = {
                 "OWASP-BLT/BLT-NetGuardian"
             ],
             "repoStats": {
-                "openPR": 4,
-                "mergedPR": 11,
+                "openPR": 2,
+                "mergedPR": 3,
                 "openIssues": 0,
                 "closedIssues": 3,
                 "totalCommits": null
@@ -26,7 +26,7 @@ window.GSOC2026_STATS = {
             ],
             "repoStats": {
                 "openPR": 0,
-                "mergedPR": 17,
+                "mergedPR": 0,
                 "openIssues": 15,
                 "closedIssues": 13,
                 "totalCommits": null
@@ -44,14 +44,14 @@ window.GSOC2026_STATS = {
             ],
             "repoStats": {
                 "openPR": 0,
-                "mergedPR": 35,
+                "mergedPR": 32,
                 "openIssues": 32,
                 "closedIssues": 38,
                 "totalCommits": null
             },
             "userStats": {
                 "mdkaifansari04": {
-                    "prTotal": 1,
+                    "prTotal": 0,
                     "closedIssues": 1
                 }
             }
